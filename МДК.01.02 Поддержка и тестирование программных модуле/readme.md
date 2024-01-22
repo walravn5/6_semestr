@@ -16,6 +16,6 @@ https://docs.google.com/document/d/18f9O0ov6rYvXEWnlGdnVrw2yoJymFKPHdsv8KRm3PYY/
 Программа делает что то чего она не должна делать согласно технические тоебованиям
 Программа делает что то о чем а тоебованиях не упоминалось
 Программа трудна для понимания неудобно в использовании
+![image](https://github.com/walravn5/6_semestr/assets/113089466/46c1300a-8a1d-4295-af84-77b0c5a7b524)
 
-![Uploading image.png…]()
 
